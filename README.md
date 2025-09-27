@@ -19,5 +19,10 @@
 ## 🎯 Goals
 I want to contribute to projects that serve countries, defense, and aerospace — not just startups.  
 
+## 📚 Interests
+- History: Passionate about studying wars, nations, and technological revolutions — learning how strategy and innovation shaped the world.  
+- Leadership: Driven to take initiative, guide teams, and work on projects that serve a nation rather than just startups.  
+- Strategy & Systems: Interest in games like HOI4 and Conquer Europe that mirror real-world decision making and resource management.  
+
 ## 📫 Contact
 - GitHub: [shaheer5-1](https://github.com/shaheer5-1)  
