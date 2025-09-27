@@ -13,7 +13,7 @@
 - 🤖 [Robotics for RoboCup](#) — Electrical design and control systems for competition robots  
 - 📐 [Physics Simulators](#) — Built simulations and solved complex problem sets  
 - 🖥️ [Custom PCBs](#) — Designed plug-and-run motor control board for RoboCup, and built with ESP32 integration  
-- 💡 [Competitive Programming](#) — Problem-solving, algorithms, and data structures (Codeforces Max Rating: 1327)  
+- 💡 [Competitive Programming](https://codeforces.com/profile/Shaheer.Old) — Problem-solving, algorithms, and data structures (Codeforces Max Rating: 1327)  
 - 🕹️ [DIY Steering Wheel](#) — Built from scratch with custom electronics, PCB design, and mechanics
 
 ## 🎯 Goals
