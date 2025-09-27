@@ -10,7 +10,7 @@
 - Physics & Math: Problem solving and simulations  
 
 ## 📂 Projects
-- 🤖 [Robotics for RoboCup](https://github.com/shaheer5-1/shaheer.github.io/blob/main/RoboCup) — Electrical design and control systems for competition robots  
+- 🤖 [Robotics for RoboCup](https://github.com/shaheer5-1/shaheer.github.io/blob/main/RoboCup.md) — Electrical design and control systems for competition robots  
 - 📐 [Physics Simulators](#) — Built simulations and solved complex problem sets  
 - 🖥️ [Custom PCBs](#) — Designed plug-and-run motor control board for RoboCup, and built with ESP32 integration  
 - 💡 [Competitive Programming](https://codeforces.com/profile/Shaheer.Old) — Problem-solving, algorithms, and data structures (Codeforces Max Rating: 1327)  
