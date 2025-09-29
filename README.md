@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 - 🤖 [Robotics for RoboCup](https://github.com/shaheer5-1/shaheer.github.io/blob/main/RoboCup.md) - Electrical design and control systems for competition robots  
-- 📐 [Physics Simulators](#) — Built simulations and solved complex problem sets  
+- 📐 [Physics Simulators](#) - Built simulations and solved complex problem sets  
 - 🖥️ [Custom PCBs](https://github.com/shaheer5-1/shaheer.github.io/blob/main/CustomPCBs.md) - Designed plug-and-run motor control board for RoboCup, with ESP32 integration  
 - 💡 [Competitive Programming](https://codeforces.com/profile/Shaheer.Old) - Algorithms & data structures (Codeforces Max Rating: **1327**)  
 - 🕹️ [DIY Steering Wheel](#) - Built from scratch with custom electronics, PCB design, and mechanics  
